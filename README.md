@@ -1,3 +1,4 @@
+
 # ull_Act1-0382
 
 A new Flutter project created with FlutLab - https://flutlab.io
@@ -23,8 +24,6 @@ samples, guidance on mobile development, and a full API reference.
 - Links de referencia:
 https://drive.google.com/file/d/1z2HH00LFdBd49St0ZCGSRrG8I4sWpAAD/view
 
-pdf:
-file:///C:/Users/Alumno/Downloads/U11_Act1_Diseno1-0382.pdf
 
   ## Resultados Final:
 -![image](https://github.com/JonatanMVJ/ull_act1-0382/assets/143743615/d397a402-3ee7-4fa8-95e4-cbebfe7a0dff)
