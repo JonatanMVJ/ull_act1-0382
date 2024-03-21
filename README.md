@@ -26,4 +26,5 @@ https://drive.google.com/file/d/1z2HH00LFdBd49St0ZCGSRrG8I4sWpAAD/view
 
 
   ## Resultados Final:
--![image](https://github.com/JonatanMVJ/ull_act1-0382/assets/143743615/d397a402-3ee7-4fa8-95e4-cbebfe7a0dff)
+-![Captura de pantalla 2024-03-21 095608](https://github.com/JonatanMVJ/ull_act1-0382/assets/143743615/20eb95c4-3508-4eda-8164-4f0ea8c718c5)
+
